@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sarah.
 
-I'm a cloud-native full-stack developer who loves to build functional web apps. I also dabble in Python and AI tools, and I teach coding workshops from time-to-time. 
+I'm a web developer and tech educator working in the real-time data space. 
 
 - 📫 You can contact me on [Linkedin](https://www.linkedin.com/in/sarahesbie/)
 - 😄 Pronouns: she/her
