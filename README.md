@@ -11,5 +11,4 @@ You'll find a mix of stuff here, like tools I've built for myself, and a lot of 
 
 - product + engineering generalist with a soft spot for social impact work
 - firm believer that good software should make people's lives genuinely better
-- I love the places where future technology and social impact get to meet
 - musician, parent, occasional teacher, forever tinkerer
